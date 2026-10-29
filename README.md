@@ -1,10 +1,10 @@
-# Olá, eu sou o GIULIANY! 👋
+# Olá, eu sou a GIULIANY! 👋
 
 ## 🚀 Sobre mim
 - 🎓 Estudando **Técnico em Desenvolvimento de Sistemas - Senac**.
 - 🎓 Formada **Marketing - Uninassau**.
 - 💻 Atualmente focado em aprender **Python**.
-- 📫 Como me encontrar: [Seu e-mail] ou [Link do LinkedIn].
+- 📫 Como me encontrar: giulianyfernandezz@gmail.com ou https://www.linkedin.com/in/giuliany-fernandes-b0434811a?utm_source=share_via&utm_content=profile&utm_medium=member_ios.
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** HTML, CSS, JavaScript, Python
